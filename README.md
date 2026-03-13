@@ -83,6 +83,9 @@ while True:
 ```
 
 ## OUTPUT
+![WhatsApp Image 2026-03-13 at 1 45 31 PM](https://github.com/user-attachments/assets/fe851187-7f89-451c-a4e4-20c25ff76bc8)
+![WhatsApp Image 2026-03-13 at 1 45 55 PM](https://github.com/user-attachments/assets/1258a040-2c89-4153-9430-5de4ed8d6133)
+![WhatsApp Image 2026-03-13 at 1 46 14 PM](https://github.com/user-attachments/assets/e2e42210-cd4e-4530-ab15-3bac09d310b9)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
